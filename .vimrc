@@ -11,7 +11,7 @@ set cursorline
 set ic
 set hls is
 set nocp
-set rulen
+set ruler
 
 syntax on
 
