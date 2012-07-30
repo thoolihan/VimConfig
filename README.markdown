@@ -1,5 +1,5 @@
-#My Vim Config
-I use several didn't editors, and Vim isn't usually my primary editor, so you'll notice it's a pretty barebone config. 
+#My vim Config
+I use several didn't editors, and vim isn't usually my primary editor, so you'll notice it's a pretty barebone config. 
 
 ##Install
 1. cd ~/temp
