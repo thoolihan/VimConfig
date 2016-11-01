@@ -1,11 +1,10 @@
 set guioptions-=T
-set guioptions-=m
 set guioptions-=r
 
 set number
 set nowrap
 set expandtab
-set tabstop=2
+set tabstop=4
 set autoindent
 set cursorline
 set ic
@@ -15,7 +14,4 @@ set ruler
 
 syntax on
 
-winpos 33 0
 set guifont=Inconsolata:h12
-set lines=40
-set columns=140
